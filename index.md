@@ -2,20 +2,29 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+# Francelix
 
 <br>
 
-{% include 02-image.md %}
+![turtles](https://avatars3.githubusercontent.com/u/54992624?s=460&v=4)
 
 <br>
 
-{% include 03-links.md %}
+[GitHub](https://github.com/Francelix)
 
 <br>
 
-{% include 04-lists.md %}
+- F
+- r
+- a
+- n
+- n
+- y
+
 
 <br>
 
-{% include 05-emphasis.md %}
+**Chika**
+**Chika**
+_boom_
+_boom_
